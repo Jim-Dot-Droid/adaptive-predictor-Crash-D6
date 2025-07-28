@@ -1,0 +1,3 @@
+degencrash-predictor/
+├── app.py
+└── requirements.txt
